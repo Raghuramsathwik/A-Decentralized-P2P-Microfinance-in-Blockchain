@@ -142,15 +142,6 @@ Demonstration of our Dapp is added to [this link](https://vimeo.com/645497797).
 <div id="team" />
 <!-- CONTACT -->
 
-# Team
-
-Team Name - **PilluzyM**
-
-- #### Team Members
-    - [Kshitij Ayush](https://github.com/kshitij-404)
-    - [Shreshth Goyal](https://github.com/shreshthgoyal)
-    - [Rishabh Kumar](https://github.com/rish78)
-   - [Mounica Sruthi](https://github.com/mounicasruthi)
 # 
 
 [contributors-shield]: https://img.shields.io/github/contributors/kshitij-404/DeFi-P2P-Lender.svg?style=for-the-badge
